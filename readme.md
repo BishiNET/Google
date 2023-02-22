@@ -6,7 +6,7 @@
 
 ## How to use
 
-For example, you want to set the nexthop ip of all the google ip to 172.16.0.1**(In the most common case, Cloudflare warp nexthop IP is 172.16.0.1.This setting is required to be set manually.)**
+For example, you want to set the nexthop ip of all the google ip to 172.16.0.1 **(In the most common case, Cloudflare warp nexthop IP is 172.16.0.1.This setting is required to be set manually.)**
 
 ```
 bash google.sh 172.16.0.1
