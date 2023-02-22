@@ -13,3 +13,5 @@ bash google.sh 172.16.1.1
 ```
 
 The script will skip the 8.8.8.8/8.8.4.4, which will not make a influence on your Google DNS.
+
+The script will return the combined result of google IPs, which is used for Wireguard allow IPs, etc.
